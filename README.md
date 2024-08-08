@@ -23,13 +23,23 @@ This repository is dedicated to various game projects that serve as both learnin
   - Player 1: `W` (up) and `S` (down)
   - Player 2: `Up Arrow` (up) and `Down Arrow` (down)
 
-### 2. [Additional Game Title]
-- Brief description of the game, its mechanics, and controls.
-
-### 3. [Additional Game Title]
-- Brief description of the game, its mechanics, and controls.
-
-*(Add more projects as necessary)*
+### 2. Snake Game
+### Overview
+This is a classic Snake game implemented in Python using the Pygame library. Players control a snake that grows longer as it eats food while avoiding collisions with the walls and its own tail. The game provides a simple yet engaging experience, perfect for honing your programming skills.
+- ### Features
+  - Control the snake using arrow keys.
+  - Grow the snake by eating food.
+  - Game over condition when the snake collides with the walls or itself.
+  - Simple graphics and smooth gameplay.
+    
+### 3. Tetris Game
+### Overview
+This is a simple implementation of the classic Tetris game using Python and the Pygame library. Players control falling Tetrominoes, rotating them and attempting to fill rows to clear them from the board. The objective is to keep the Tetrominoes from stacking to the top of the game area.
+- ### Features
+  - Classic Tetris gameplay mechanics.
+  - Control Tetrominoes using arrow keys.
+  - Line clearing and scoring system.
+  - Game over condition when pieces reach the top.
 
 ## Installation
 
